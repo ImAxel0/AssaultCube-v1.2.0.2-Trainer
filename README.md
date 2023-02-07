@@ -17,3 +17,5 @@ A simple internal trainer for Assault Cube made in C++ following GuidedHacking t
 ## How to use
 
 Just inject the 'AssaultCubeInternal.dll' into the ac_client.exe process with whatever injector you prefer and use the numpad keys displayed in the terminal to activate/deactivate the hacks.
+
+https://user-images.githubusercontent.com/124681710/217261694-0a104368-2269-46ee-8c3b-5bf3d19c6715.mp4
