@@ -2,7 +2,7 @@
 
 ## Description
 
-A simple internal trainer for Assault Cube made inc C++ following GuidedHacking tutorials and adding some features myself.
+A simple internal trainer for Assault Cube made in C++ following GuidedHacking tutorials and adding some features myself.
 
 ## Features
 
